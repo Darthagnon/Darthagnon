@@ -1,6 +1,8 @@
 # pinned
 Darthagnon's pinned repositories on GitHub
 
+GitHub only allows you to pin 6 repositories. I work on a lot more than that.
+
 ## My projects
 
 ### double-click

@@ -74,6 +74,12 @@ GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 - Markdown
 - A list of final good versions of various web browsers that I made, because I don't like the direction that Chrome, Opera, Firefox, et al. are going.
 
+### WinMoji
+- [https://github.com/Darthagnon/winmoji](https://github.com/Darthagnon/winmoji)
+- Electron
+- Best emoji keyboard for Windows. [Original version](https://github.com/ryanSN/winmoji) added telemetry in v2.3.0; I "opted out" by forking, removing telemetry and updater and built a 32bit release (Electron uses a lot of RAM, 32bit uses a little less)
+
+
 
 ## Archived projects
 

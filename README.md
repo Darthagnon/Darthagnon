@@ -59,6 +59,11 @@ GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 - F# (build only)
 - A nice-looking Pomodoro timer by [Marcus van Houdt](https://github.com/mjvh80/pomotimer). He hasn't been on GitHub since 2018, and didn't leave behind any binaries (EXEs) of the project, so I built it from source and tagged a release.
 
+### npp-task-list
+- [https://github.com/Darthagnon/npp-task-list/releases/](https://github.com/Darthagnon/npp-task-list/releases/)
+- C/C++ (build, minor edits)
+- A very useful plugin for Notepad++ that lets you bookmark places in your code/documents and jump between them. I tracked down the most up-to-date fork, figured out how to get it working on modern Notepad++ (the location of config files has changed, which must be accounted for, alongside legacy plugins) and built binaries to use. 
+
 ### PEGI icons, etc.
 - [https://github.com/Darthagnon/PEGI](https://github.com/Darthagnon/PEGI)
 - SVG/PNG images
@@ -78,6 +83,11 @@ GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 - [https://github.com/Darthagnon/winmoji](https://github.com/Darthagnon/winmoji)
 - Electron
 - Best emoji keyboard for Windows. [Original version](https://github.com/ryanSN/winmoji) added telemetry in v2.3.0; I "opted out" by forking, removing telemetry and updater and built a 32bit release (Electron uses a lot of RAM, 32bit uses a little less)
+
+### Game Backup Monitor
+- [https://github.com/MikeMaximus/gbm/discussions/209](https://github.com/MikeMaximus/gbm/discussions/209)
+- Suggestions RE: layout, graphics
+- I entered into some detailed correspondence with MikeMaximus, the maker of Game Backup Monitor, and offered a bunch of suggestions, prototypes, and some icons to help improve the software from being a gamesave monitor to a fully-fledged launcher.
 
 
 
@@ -103,3 +113,6 @@ GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 ## TODO
 - University code (matlab, C, Assembly)
 - MultiMC5 Afoninz binaries and build.md
+- the best old web browsers
+- firefox CSS
+- Vivaldi CSS

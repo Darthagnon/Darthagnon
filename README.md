@@ -41,7 +41,8 @@ GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 - My work-in-progress blog and news site, built with [GoHugo](https://gohugo.io/)
 
 ### djdl.ml
-- [https://github.com/Darthagnon/djdl.ml](https://github.com/Darthagnon/djdl.ml)
+- [https://github.com/Darthagnon/djdl.ml](https://github.com/Darthagnon/djdl.ml) (public site repo)
+- [https://github.com/Darthagnon/djdl.ml-src](https://github.com/Darthagnon/djdl.ml-src) (private site source repo)
 - Markdown, HTML/CSS, JS
 - My CV website, used to point people to my other projects and a placeholder for my blog
 

@@ -115,4 +115,5 @@ GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 - MultiMC5 Afoninz binaries and build.md
 - the best old web browsers
 - firefox CSS
+- https://github.com/Darthagnon/firefox-like-chrome
 - Vivaldi CSS

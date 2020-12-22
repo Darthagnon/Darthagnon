@@ -4,6 +4,7 @@ Darthagnon's pinned repositories on GitHub
 GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 
 ## My projects
+Wherein I did program, design and put in some original thought
 
 ### double-click
 - [https://github.com/Darthagnon/double-click](https://github.com/Darthagnon/double-click)
@@ -46,9 +47,14 @@ GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 - Markdown, HTML/CSS, JS
 - My CV website, used to point people to my other projects and a placeholder for my blog
 
+### taskbar-groups
+- [https://github.com/tjackenpacken/taskbar-groups/issues/19](https://github.com/tjackenpacken/taskbar-groups/issues/19)
+- graphic design
+- Taskbar Groups is an innovative popup folder program. It lacked a suitable icon on release, so I started making one for it.
 
 
 ## Other people's projects I've worked on
+Or, where I didn't do much but build the source code or contribute some ideas or someone else's files.
 
 ### SymWin
 - [https://github.com/Darthagnon/SymWinBinaries](https://github.com/Darthagnon/SymWinBinaries)

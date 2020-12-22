@@ -124,3 +124,4 @@ Or, where I didn't do much but build the source code or contribute some ideas or
 - firefox CSS
 - https://github.com/Darthagnon/firefox-like-chrome
 - Vivaldi CSS
+- wagic themes

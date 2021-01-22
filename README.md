@@ -97,6 +97,10 @@ Or, where I didn't do much but build the source code or contribute some ideas or
 - I entered into some detailed correspondence with MikeMaximus, the maker of Game Backup Monitor, and offered a bunch of suggestions, prototypes, and some icons to help improve the software from being a gamesave monitor to a fully-fledged launcher.
 
 
+### Cloudreve
+- [https://github.com/Darthagnon/CloudreveEnglish](https://github.com/Darthagnon/CloudreveEnglish)
+- I found this pretty awesome-looking GoLang cloud server (similar to a self-hosted Google Drive or [filebrowser](https://github.com/filebrowser/filebrowser)), but it's all in Chinese. [I thought I'd have a stab at translating it to English](https://github.com/cloudreve/Cloudreve/issues/734)
+
 
 ## Archived projects
 

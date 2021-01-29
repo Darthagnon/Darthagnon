@@ -102,6 +102,10 @@ Or, where I didn't do much but build the source code or contribute some ideas or
 - I found this pretty awesome-looking GoLang cloud server (similar to a self-hosted Google Drive or [filebrowser](https://github.com/filebrowser/filebrowser)), but it's all in Chinese. [I thought I'd have a stab at translating it to English](https://github.com/cloudreve/Cloudreve/issues/734)
 
 
+### OpenHashTab
+- [https://github.com/namazso/OpenHashTab](https://github.com/namazso/OpenHashTab)
+- I contributed to the Spanish translation and the majority of the 1st draft of the Brazilian Portuguese translation via Weblate in late 2020.
+
 ## Archived projects
 
 ### betternotesvivaldi

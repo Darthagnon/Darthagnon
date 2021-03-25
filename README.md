@@ -133,3 +133,10 @@ Or, where I didn't do much but build the source code or contribute some ideas or
 - https://github.com/Darthagnon/firefox-like-chrome
 - Vivaldi CSS
 - wagic themes
+- Add F3 support to CtrlFrything
+- Add binaries (learn about Git Bundles) for MultiMC5 to repo: https://github.com/Darthagnon/MultiMC5Binaries
+- Test PoomSmart EmojiPort https://github.com/PoomSmart/EmojiPort-Legacy/issues/16
+- Update Manual for GBM v1.2.6
+- Write roadmap for Eclipse Encryption (AutoCrypt?)
+- Migrate pinned.md to a "GitHub Profile" repo for myself Darthagnon. Also include a copy of my RSS opml?
+

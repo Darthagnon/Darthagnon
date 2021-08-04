@@ -19,6 +19,6 @@ Raspberry Pi homeserver succesfully running!
 
 ## Contact
 - Public Email: ```darren [dot] delima [at] yahoo [dot] co [dot] uk``` 
-- [PGP](pgpgpg/Darren John de Lima (Russian email 2)_0x2BE6352D_public.asc)
+- [PGP](pgpgpg/Darren John de Lima_0x2BE6352D_public.asc)
 - [Telegram](https://t.me/Darthagnon)
 - [LinkedIn](https://www.linkedin.com/in/darrendelima/) (don't know if it's worth bothering, LinkedIn is rubbish and I never check or post)

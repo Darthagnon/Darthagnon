@@ -3,7 +3,7 @@ I am Darren John de Lima.
 
 Currently a student electromechanical engineer who enjoys creating art and products for home use, I also run a homeserver and function as my family's sysadmin/tech support.
 
-If you'd like to see programming-related projects I've worked on [see my pinned repositories](Pinned.md).
+If you'd like to see programming-related projects I've worked on [see my pinned repositories](Pinned.md); I've included notes. Due to my workflow, GitHub forks and GitHub's default pinned repositories are not the best way to view these.
 
 My to-do list is [here](TODO.md).
 
@@ -21,6 +21,7 @@ Raspberry Pi homeserver succesfully running!
 - Public Email: ```darren [dot] delima [at] yahoo [dot] co [dot] uk``` 
 - [PGP](https://raw.githubusercontent.com/Darthagnon/Darthagnon/master/pgpgpg/Darren%20John%20de%20Lima_0x2BE6352D_public.asc)
 - [Telegram](https://t.me/Darthagnon) 
+- [qTox](https://qtox.github.io/) (P2P chat/audio/video, only connects if I'm online): ```FB920C0CA40B3B44FDBE03790408DFE0DB9216DA63D47AFDEEBAE6BBE39EE221256408CEBD8B```
 
 ### Employment
 - I am currently open to freelance/temporary work. Trying to find a way to complete my degree alongside working in an EU country.

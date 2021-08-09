@@ -1,7 +1,7 @@
 # Hello world.
 I am Darren John de Lima. 
 
-I'm a student electromechanical engineer who enjoys creating art and products for home use. I am my family's sysadmin and run a homeserver.
+Currently a student electromechanical engineer who enjoys creating art and products for home use, I also run a homeserver and function as my family's sysadmin/tech support.
 
 If you'd like to see programming-related projects I've worked on [see my pinned repositories](Pinned.md).
 

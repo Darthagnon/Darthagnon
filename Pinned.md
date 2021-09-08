@@ -6,6 +6,11 @@ GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 ## My projects
 Wherein I did program, design and put in some original thought
 
+### Cricket
+- [https://github.com/Darthagnon/jiminy-cricket](https://github.com/Darthagnon/jiminy-cricket)
+- C/C++/Markdown
+- A file-sharing and always-online functions bot for the [Tox protocol](https://tox.chat/) started by a friend that I'm going to try to help develop. Running on a Raspberry Pi, it will give you filesystem access and forward messages to connected Tox devices, a useful workaround as you normally won't receive messages via Tox when offline.
+
 ### double-click
 - [https://github.com/Darthagnon/double-click](https://github.com/Darthagnon/double-click)
 - AHK (AutoHotkey)

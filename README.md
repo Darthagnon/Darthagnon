@@ -5,14 +5,14 @@ Currently a student electromechanical engineer who enjoys creating art and produ
 
 If you'd like to see programming-related projects I've worked on [see my pinned repositories](Pinned.md); I've included notes. Due to my workflow, GitHub forks and GitHub's default pinned repositories are not the best way to view these.
 
-My to-do list is [here](TODO.md).
-
 Live long and prosper 🖖
 
 ## Focus
+My to-do list is [here](TODO.md).
 - audio recordings for my little niece @ [HeartThis.at](https://hearthis.at/darren-de-lima/)
 - get personal blog set up @ [djdl.ml](https://djdl.ml)
 - university lecture recordings archive
+- interview materials and lesson plan for college course
 
 ## Showcase
 Raspberry Pi homeserver succesfully running!
@@ -24,7 +24,7 @@ Raspberry Pi homeserver succesfully running!
 - [qTox](https://qtox.github.io/) (P2P chat/audio/video, only connects if I'm online): ```FB920C0CA40B3B44FDBE03790408DFE0DB9216DA63D47AFDEEBAE6BBE39EE221256408CEBD8B```
 - [Matrix](https://matrix.to/#/@darthagnon:matrix.org)
 
-### Employment
+## Employment
 - I am currently open to short-term work. Trying to find a way to complete my degree alongside working in an EU country.
 - [LinkedIn](https://www.linkedin.com/in/darrendelima/)
 - [BestJobs.ro](https://www.bestjobs.eu/en/cv/230c63f8-ae2c-41ed-ad94-01a879fa87d6)

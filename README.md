@@ -22,8 +22,9 @@ Raspberry Pi homeserver succesfully running!
 - [PGP](https://raw.githubusercontent.com/Darthagnon/Darthagnon/master/pgpgpg/Darren%20John%20de%20Lima_0x2BE6352D_public.asc)
 - [Telegram](https://t.me/Darthagnon) 
 - [qTox](https://qtox.github.io/) (P2P chat/audio/video, only connects if I'm online): ```FB920C0CA40B3B44FDBE03790408DFE0DB9216DA63D47AFDEEBAE6BBE39EE221256408CEBD8B```
+- [Matrix](https://matrix.to/#/@darthagnon:matrix.org)
 
 ### Employment
-- I am currently open to freelance/temporary work. Trying to find a way to complete my degree alongside working in an EU country.
+- I am currently open to short-term work. Trying to find a way to complete my degree alongside working in an EU country.
 - [LinkedIn](https://www.linkedin.com/in/darrendelima/)
 - [BestJobs.ro](https://www.bestjobs.eu/en/cv/230c63f8-ae2c-41ed-ad94-01a879fa87d6)

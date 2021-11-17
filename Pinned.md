@@ -11,6 +11,11 @@ Wherein I did program, design and put in some original thought
 - C/C++/Markdown
 - A file-sharing and always-online functions bot for the [Tox protocol](https://tox.chat/) started by a friend that I'm going to try to help develop. Running on a Raspberry Pi, it will give you filesystem access and forward messages to connected Tox devices, a useful workaround as you normally won't receive messages via Tox when offline.
 
+### random-js
+- [https://github.com/Darthagnon/random-js](https://github.com/Darthagnon/random-js)
+- JavaScript
+- (private repo until it's finished) I need a weighted random image and text selection script for my blog's wallpaper and splash-text quotes. I'm improving on someone else's basic script I found.
+
 ### double-click
 - [https://github.com/Darthagnon/double-click](https://github.com/Darthagnon/double-click)
 - AHK (AutoHotkey)

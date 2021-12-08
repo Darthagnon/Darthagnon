@@ -81,6 +81,11 @@ Or, where I didn't do much but build the source code or contribute some ideas or
 - C/C++ (build, minor edits)
 - A very useful plugin for Notepad++ that lets you bookmark places in your code/documents and jump between them. I tracked down the most up-to-date fork, figured out how to get it working on modern Notepad++ (the location of config files has changed, which must be accounted for, alongside legacy plugins) and built binaries to use. 
 
+### My PSP Cheats
+ - [https://github.com/Darthagnon/my-psp-cheats](https://github.com/Darthagnon/my-psp-cheats)
+ - hexadecimal, SQLite (??? it's some sort of lite database)
+ - A collection of Sony PSP cheats I've accumulated over the years since I first hacked my PSP in 2013ish. The PSP is now a "retro" console, and ongoing development in the PSP scene means new cheats are still being developed. Git was a better way to manage versions of my cheats DB. It is usable
+
 ### PEGI icons, etc.
 - [https://github.com/Darthagnon/PEGI](https://github.com/Darthagnon/PEGI)
 - SVG/PNG images
@@ -132,3 +137,17 @@ Or, where I didn't do much but build the source code or contribute some ideas or
 - [https://robot-one.blogspot.co.uk/](https://robot-one.blogspot.co.uk)
 - Blogger platform
 - Old blog I tried making a few years ago. The Google Blogger platform is very limited, somewhat legacy, and tied to Google. I wanted something better and independent, where I have full source-code access and can rehost anywhere.
+
+## Other projects
+... not on GitHub, or miscellaneous.
+
+### Mad Catz R.A.T. 7 Drivers
+- I helped make legacy software drivers for legacy hardware publicly available again, via [this Reddit post](https://old.reddit.com/r/MouseReview/comments/apxfuj/can_anyone_help_me_install_the_drivers_for_the/). After private discussion, I supplied some of the files now available here [here](http://moginspace.us/madcatzrat7/)
+
+### Data-sharing projects
+- I can neither confirm nor deny my long term mirroring projects for game files on [the famous Russian forum](https://cs.rin.ru/) via multiple cloud storage providers, custom front-ends and Bittorrent.
+
+### Translations
+- As I am multilingual, I occasionally contribute missing translations to FOSS projects. I have contributed to:
+	- [CloudStream3](https://github.com/LagradOst/CloudStream-3) (Dec. 2021, via [issue 263](https://github.com/LagradOst/CloudStream-3/issues/263))
+	- [OpenHashTab](https://github.com/namazso/OpenHashTab) (Dec. 2020, via [issue 46](https://github.com/namazso/OpenHashTab/issues/46) and [Weblate](https://hosted.weblate.org/projects/openhashtab/main/))

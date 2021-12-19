@@ -71,6 +71,11 @@ Or, where I didn't do much but build the source code or contribute some ideas or
 - C# (build and minor edits)
 - The best tool for typing accented letters on Windows. Originally made by [Marcus van Houdt](https://github.com/mjvh80/SymWin), he didn't leave us any binaries, only source code. So I built the project fixed some missing keys.
 
+### Radicale
+- [https://github.com/Darthagnon/RadicaleBinaries](https://github.com/Darthagnon/RadicaleBinaries)
+- Python
+- Radicale is the only easy-to-use local CalDAV/CardDAV (Calendars and Contacts) server that exists. All others require heavy lifting, horridly complicated setup or dependence on Big Tech. I'm working on a project to make it easier to use, compiling it into a single binary.
+
 ### Pomotimer
 - [https://github.com/Darthagnon/pomotimer](https://github.com/Darthagnon/pomotimer)
 - F# (build only)

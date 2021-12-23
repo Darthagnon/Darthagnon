@@ -66,6 +66,11 @@ Wherein I did program, design and put in some original thought
 ## Other people's projects I've worked on
 Or, where I didn't do much but build the source code or contribute some ideas or someone else's files.
 
+### Epic Games List
+- [https://github.com/Darthagnon/my-epic-games](https://github.com/Darthagnon/my-epic-games)
+- CSV
+- [Legendary](https://github.com/derrod/legendary/releases) is a FOSS tool that can list your owned games on the Epic store. I play very few of them, even though I claim all free ones, because I don't like dealing with the hassle of DRM and launchers. I don't trust any company (Valve's Steam, Epic, CD Projekt's GOG, Indiegala, Itch.io, etc.) to keep "my" licensed digital media perpetually available, so I thought it would be an interesting experiment to export periodic lists of my games, and see which disappear over time. Since I'm experimenting, Git seemed better than keeping date-stamped individual CSVs. 
+
 ### SymWin
 - [https://github.com/Darthagnon/SymWinBinaries](https://github.com/Darthagnon/SymWinBinaries)
 - C# (build and minor edits)

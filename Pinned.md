@@ -6,6 +6,11 @@ GitHub only allows you to pin 6 repositories. I work on a lot more than that.
 ## My projects
 Wherein I did program, design and put in some original thought
 
+### LibreOffice Personas
+- [https://github.com/Darthagnon/LibreOfficePersonas](https://github.com/Darthagnon/LibreOfficePersonas)
+- image files, edited via [Paint.NET](https://www.getpaint.net/)
+- [LibreOffice](https://www.libreoffice.org/download/download/) has a legacy Firefox-persona-based themeing system. It is an almost unused and unmaintained feature, but can help make LibreOffice look a little more like the industry standard Microsoft Office. I made some themes, and mirrored the vital Office 2013 icon pack here.
+
 ### Cricket
 - [https://github.com/Darthagnon/jiminy-cricket](https://github.com/Darthagnon/jiminy-cricket)
 - C/C++/Markdown

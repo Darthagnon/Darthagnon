@@ -71,6 +71,10 @@ Wherein I did program, design and put in some original thought
 ## Other people's projects I've worked on
 Or, where I didn't do much but build the source code or contribute some ideas or someone else's files.
 
+### JDownloader Portable
+- [https://github.com/Darthagnon/jdownloader-portable/tree/mod](https://github.com/Darthagnon/jdownloader-portable/tree/mod)
+- The original maintainer seems to have abandoned this portable packaging of the popular [JDownloader2](https://jdownloader.org/jdownloader2) software, leaving it outdated and missing plugins. I'm trying to keep it updated for my own use.
+
 ### Epic Games List
 - [https://github.com/Darthagnon/my-epic-games](https://github.com/Darthagnon/my-epic-games)
 - CSV
